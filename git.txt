@@ -1,0 +1,15 @@
+githup version control it is a concept to hold the multiple version form different developer at one place 
+-> you can store it  local repository as as well as remote server for every user 
+
+
+git init -> to intialize the git in respective folder 
+
+git add-> To add a file in git repository 
+
+git status-> to get the status of how many file created or file insertion or deletion
+
+git commit -> once you  used git add command the file or folder does not add in remote repository to add in respository you have to commit by using commit command
+   commit followed by  the message what you done on that file or folder 
+
+git clone -> to get the copy of a folder of the remote server locally stored in your computer 
+
