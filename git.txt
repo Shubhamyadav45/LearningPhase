@@ -8,13 +8,7 @@ git add-> To add a file in git repository
 
 git status-> to get the status of how many file created or file insertion or deletion
 
-git commit -> once you  used git add command the file or folder does not add in remote repository to add in respository you have to commit by using commit command
-   commit followed by  the message what you done on that file or folder 
+git commit -> commit cmd is used to capture the  snapshots of what have been update from whom . 
 
 git clone -> to get the copy of a folder of the remote server locally stored in your computer 
-
-
-
-git push command -> To push the file or folder to remote repository with login creddentials email name and password 
-
 
