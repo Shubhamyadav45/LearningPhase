@@ -13,3 +13,8 @@ git commit -> once you  used git add command the file or folder does not add in 
 
 git clone -> to get the copy of a folder of the remote server locally stored in your computer 
 
+
+
+git push command -> To push the file or folder to remote repository with login creddentials email name and password 
+
+
